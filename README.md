@@ -1,3 +1,3 @@
-# homebrew-http-intercept
+# homebrew-formulas
 
-Homebrew formula for `http-intercept`
+My Homebrew tap
