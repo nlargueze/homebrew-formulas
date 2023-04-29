@@ -4,9 +4,9 @@
 class HttpIntercept < Formula
     desc "Simple HTTP request interceptor that echoes the request to the terminal"
     homepage "https://github.com/nlargueze/http-intercept"
-    url "https://github.com/nlargueze/http-intercept/releases/download/v0.1.0/http-intercept-mac.tar.gz"
-    sha256 "c04420da26f77006ae3380e708e2fd848a802e3254e7e26c9682110857965c87"
-    version "0.1.0"
+    url "https://github.com/nlargueze/http-intercept/releases/download/v0.2.0/http-intercept-mac.tar.gz"
+    sha256 "aea260991bd8ed316e21290f941044077704d52031f1ef70a7afd6d44fe526c8"
+    version "0.2.0"
   
     def install
       bin.install "http-intercept"
