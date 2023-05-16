@@ -4,9 +4,9 @@
 class Gitcc < Formula
     desc "CLI for conventional commits, changelogs, and release management"
     homepage "https://github.com/nlargueze/gitcc"
-    url "https://github.com/nlargueze/gitcc/releases/download/v0.4.0/gitcc.tar.gz"
-    sha256 "229defee6f5de6d5edba2f217bb336bb56add4db7c47eddce733d8aca29520eb"
-    version "0.4.0"
+    url "https://github.com/nlargueze/gitcc/releases/download/v0.5.0/gitcc.tar.gz"
+    sha256 "9b6baa2ebedcc0cb8a6fca93f31fdea98def79cfe48b307b7a70944790ee7904"
+    version "0.5.0"
   
     def install
       bin.install "gitcc"
